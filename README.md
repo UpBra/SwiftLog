@@ -1,0 +1,2 @@
+# SwiftLog
+Yet Another Logger
